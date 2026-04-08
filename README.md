@@ -13,8 +13,7 @@ GitHub 下載位址： starcitizen-chinese_traditional
 
 將這兩個檔案/資料夾直接複製到星際公民安裝路徑下的 LIVE 資料夾內即可。
 
-CIG的資料夾要看看各位是安裝在哪邊，應該是放在 預設 C:\Program Files\Roberts Space Industries\Star Citizen\Live
-
+遊戲資料夾預設 C:\Program Files\Roberts Space Industries\Star Citizen\Live
 
 註：若想移除漢化，只需刪除 user.cfg 檔案，非常安全。
 
