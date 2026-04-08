@@ -22,6 +22,8 @@ GitHub 下載位址： starcitizen-chinese_traditional
 整合藍圖資訊： 參考 ExoAE/ScCompLangPack 資料，整合了裝備獲取路徑（目前名稱保留英文以方便查表）。
 持續優化： 我針對部分生硬的語法進行了手動修正。不過遊戲任務眾多，若有翻譯不流暢或未翻譯到的部分，我會在邊玩邊修，持續更新。
 
+ 如果要打中文，可以到 https://taksito.github.io/chsc-tw/ctinput.html
+
 💬 問題回饋與交流
 如果您在使用上有任何建議或發現錯誤，歡迎直接在下方留言，或到 Discord 找我：
 Discord 連結： https://discord.gg/DJSKRCN
