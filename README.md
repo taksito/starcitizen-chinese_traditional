@@ -6,29 +6,25 @@
 📥 資源連結
 GitHub 下載位址： starcitizen-chinese_traditional
 
-🛠 安裝教學 (簡單三步驟)
+🛠 安裝教學 (簡單2步驟)
 點擊 GitHub 頁面上的 [Code] 按鈕，選擇 [Download ZIP]。
 
-解壓縮下載的檔案，進入資料夾後會看到 user.cfg 與 data 資料夾。
+1. 解壓縮下載的檔案，進入資料夾後會看到 user.cfg 與 data 資料夾。
+2. 將這兩個檔案/資料夾直接複製到星際公民安裝路徑下的 LIVE 資料夾內即可。
+(遊戲資料夾預設 C:\Program Files\Roberts Space Industries\Star Citizen\Live)
 
-將這兩個檔案/資料夾直接複製到星際公民安裝路徑下的 LIVE 資料夾內即可。
-
-遊戲資料夾預設 C:\Program Files\Roberts Space Industries\Star Citizen\Live
 
 註：若想移除漢化，只需刪除 user.cfg 檔案，非常安全。
+**本程式只有兩個檔案，一個是開啟語言的user.cfg，另一個就是語言翻譯文字檔，因此移除user.cfg就會去使用預設的英文。
 
 💡 製作細節與特色
 安全純淨： 如果你對漢化盒子程式有疑慮，這套純文字檔版本是最好的選擇，完全不影響遊戲執行檔。
-
 整合藍圖資訊： 參考 ExoAE/ScCompLangPack 資料，整合了裝備獲取路徑（目前名稱保留英文以方便查表）。
-
 持續優化： 我針對部分生硬的語法進行了手動修正。不過遊戲任務眾多，若有翻譯不流暢或未翻譯到的部分，我會在邊玩邊修，持續更新。
 
 💬 問題回饋與交流
 如果您在使用上有任何建議或發現錯誤，歡迎直接在下方留言，或到 Discord 找我：
-
 Discord 連結： https://discord.gg/DJSKRCN
-
 在線時間： 每晚 21:00 ~ 24:00 左右
 
 希望能幫助到想體驗中文環境的市民們，我們宇宙見！
